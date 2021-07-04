@@ -132,5 +132,5 @@
 <br><br>
 
 ### Map Editor
-![](Images/YGHBall2Editor.png)
+![](Images/YGHBall2MapEditor.png)
 <br><br><br><br>
