@@ -7,8 +7,8 @@
 >
 > 이와 같이 특정 돈을 만들어 내어 지갑에 돈이 차곡차곡 쌓이는 재미를 느낄 수 있는 게임입니다.
 ### Release
-- `2.0` (2011-05-15) [다운로드](Release/메이플돈벌기2.exe)
-- `8.2` (2011-06-12) [다운로드](Release/메이플돈벌기8.2.exe)
+- `2.0` (2011-05-15) [다운로드](https://github.com/geoje/Games/raw/master/Release/%EB%A9%94%EC%9D%B4%ED%94%8C%EB%8F%88%EB%B2%8C%EA%B8%B02.exe)
+- `8.2` (2011-06-12) [다운로드](https://github.com/geoje/Games/raw/master/Release/%EB%A9%94%EC%9D%B4%ED%94%8C%EB%8F%88%EB%B2%8C%EA%B8%B08.2.exe)
 
 ![](Images/메이플돈벌기2.gif)
 <br><br><br><br>
@@ -18,7 +18,7 @@
 > 
 > 중력과 충돌을 통한 상호작용을 처음 사용한 게임입니다.
 ### Release
-- `0.2` (2011-06-11) [다운로드](Release/FlyBlueBall.exe)
+- `0.2` (2011-06-11) [다운로드](https://github.com/geoje/Games/raw/master/Release/FlyBlueBall0.2.exe)
 
 ![](Images/FlyBlueBall0.2.gif)
 <br><br><br><br>
@@ -28,7 +28,7 @@
 >
 > 스타크래프트 라는 게임에서 업그레이드와 벌쳐의 지뢰에 영감을 받아 해당 요소도 추가하였습니다.
 ### Release
-- `0.4` (2011-09-25) [다운로드](Release/YGH타워디펜스0.4.exe)
+- `0.4` (2011-09-25) [다운로드](https://github.com/geoje/Games/raw/master/Release/YGH%ED%83%80%EC%9B%8C%EB%94%94%ED%8E%9C%EC%8A%A40.4.exe)
 
 ![](Images/YGH타워디펜스0.4.gif)
 <br><br><br><br>
@@ -36,7 +36,7 @@
 # YGH미로찾기 (2011-10-04)
 > 한정된 시야 속에서 캐릭터가 '마나'를 사용해서 '대쉬'를 사용해서 벽을 넘어 미로를 탈출하는 게임입니다.
 ### Release
-- `latest` (2011-10-04) [다운로드](Release/YGH미로찾기.exe)
+- `latest` (2011-10-04) [다운로드](https://github.com/geoje/Games/raw/master/Release/YGH%EB%AF%B8%EB%A1%9C%EC%B0%BE%EA%B8%B0.exe)
 
 ![](Images/YGH미로찾기.gif)
 <br><br><br><br>
@@ -48,8 +48,8 @@
 >
 > F2: 게임 도중 메인메뉴로 이동
 ### Release
-- `1.2` (2012-02-22) [다운로드](Release/YGHBall1.2.exe)
-- `1.4` (2012-04-22) [다운로드](Release/YGHBall1.4.exe)
+- `1.2` (2012-02-22) [다운로드](https://github.com/geoje/Games/raw/master/Release/YGHBall1.2.exe)
+- `1.4` (2012-04-22) [다운로드](https://github.com/geoje/Games/raw/master/Release/YGHBall1.4.exe)
 
 ![](Images/YGHBall.gif)
 <br><br><br><br>
@@ -59,7 +59,7 @@
 >
 > 업적을 달성하여 칭호를 획득할 수 있고 다같이 미로찾기를 할 수도 있습니다.
 ### Release
-- `latest` (2012-03-16) [다운로드](Release/OnlinePlatform.exe)
+- `latest` (2012-03-16) [다운로드](https://github.com/geoje/Games/raw/master/Release/OnlinePlatform.exe)
 
 ![](Images/OnlinePlatform.gif)
 <br><br><br><br>
@@ -78,8 +78,8 @@
 # Polygon Platform (2012-09-01)
 > 그동안 쌓아온 플랫폼 게임의 기술을 녹여 `GameMaker Studio` 라는 툴로 안드로이드 앱 제작을 하였습니다.
 ### Release
-- `demo(Window)` (2012-09-01) [다운로드](Release/PolygonPlatformDemo.zip)
-- `demo(Android)` (2012-09-01) [다운로드](Release/PolygonPlatformDemo.apk)
+- `demo(Window)` (2012-09-01) [다운로드](https://github.com/geoje/Games/raw/master/Release/PolygonPlatformDemo.zip)
+- `demo(Android)` (2012-09-01) [다운로드](https://github.com/geoje/Games/raw/master/Release/PolygonPlatformDemo.apk)
 
 ![](Images/PolygonPlatformDemo.gif)
 <br><br><br><br>
@@ -100,7 +100,7 @@
 
 
 ### Release
-- `latest` (2013-04-02) [다운로드](Release/RedstoneSimulatorDemo.exe)
+- `latest` (2013-04-02) [다운로드](https://github.com/geoje/Games/raw/master/Release/RedstoneSimulatorDemo.exe)
 
 ### 아래 사진에 사용된 회로
 - 무선 레드스톤 (연결방법: 둘중 하나를 오른쪽클릭후 목적지에서 땜)
@@ -117,7 +117,7 @@
 >
 > 맵 에디터까지 있어서 직접 맵을 만들고 사람들과 공유하여 플레이할 수 있습니다.
 ### Release
-- `2.1.1` (2013-02-13) [다운로드](Release/PolygonPlatformDemo.zip)
+- `2.1.1` (2013-02-13) [다운로드](https://github.com/geoje/Games/raw/master/Release/YGHBall2.zip)
 
 ### Single Play
 ![](Images/YGHBall2Single.gif)
