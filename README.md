@@ -161,7 +161,7 @@
 
 - `latest` [다운로드](https://github.com/geoje/Games/raw/master/Release/OnlineYghBall.exe)
 
-![](Images/OnlineYGHBall.gif)
+![](Images/OnlineYghBall.gif)
 <br><br><br><br>
 
 # ⬛ Polygon Platform (2012-09-01)
