@@ -141,7 +141,7 @@
 ![](Images/OnlinePlatform.gif)
 <br><br><br><br>
 
-# ⚫ Oneline YGHBall (2012)
+# ⚫ Oneline YGHBall (2012-04-14)
 
 > YGH Ball 게임을 온라인으로 즐길 수 있습니다.
 >
