@@ -58,6 +58,10 @@
 
 > 똑같이 생긴 벽들 속에서 숨겨진 미로를 탈출하는 게임입니다.
 
+### 조작법
+
+- `Space` 플레쉬 1회 사용 (맵 전체를 환하게 볼 수 있음)
+
 ### Release
 
 - `latest` [다운로드](https://github.com/geoje/Games/raw/master/Release/CrazyMaze.exe)
