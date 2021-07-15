@@ -128,7 +128,7 @@
 ![](Images/YGHBall.gif)
 <br><br><br><br>
 
-# ⬜ Oneline Platform (2012-03-16)
+# ⬜ Online Platform (2012-03-16)
 
 > 소켓 통신을 활용하여 처음으로 만든 온라인 게임입니다.
 >
@@ -141,7 +141,7 @@
 ![](Images/OnlinePlatform.gif)
 <br><br><br><br>
 
-# ⚫ Oneline YGHBall (2012-04-14)
+# ⚫ Online YGH Ball (2012-04-14)
 
 > YGH Ball 게임을 온라인으로 즐길 수 있습니다.
 >
