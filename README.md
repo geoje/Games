@@ -3,7 +3,7 @@
 초등학교 6학년 때 프로그래밍이라는 것을 처음 알게 해준 `GameMaker` 라는 툴로 중학교 3학년 때 까지 총 3년간 만들어온 게임들을 모아놓은 공간입니다.
 <br><br><br><br>
 
-# 메이플 돈벌기 (2011-05-15)
+# 🍄 메이플 돈벌기 (2011-05-15)
 
 > 빨간포션을 100원에 사면 일정 시간마다 10원을 만들어 냅니다.
 >
@@ -17,7 +17,7 @@
 ![](Images/메이플돈벌기2.gif)
 <br><br><br><br>
 
-# Fly Blue Ball (2011-06-11)
+# 🔵 Fly Blue Ball (2011-06-11)
 
 > 관성이 없는 공튀기기 입니다.
 >
@@ -30,7 +30,7 @@
 ![](Images/FlyBlueBall0.2.gif)
 <br><br><br><br>
 
-# YGH타워디펜스 (2011-09-25)
+# 🏰 YGH타워디펜스 (2011-09-25)
 
 > 전형적인 타워디펜스이며 가진 돈으로 타워를 설치해서 지나가는 몬스터를 잡는 게임입니다.
 >
@@ -43,7 +43,7 @@
 ![](Images/YGH타워디펜스0.4.gif)
 <br><br><br><br>
 
-# YGH미로찾기 (2011-10-04)
+# 🧭 YGH미로찾기 (2011-10-04)
 
 > 한정된 시야 속에서 캐릭터가 '마나'를 사용해서 '대쉬'를 사용해서 벽을 넘어 미로를 탈출하는 게임입니다.
 
@@ -54,7 +54,7 @@
 ![](Images/YGH미로찾기.gif)
 <br><br><br><br>
 
-# CrazyMaze (2011-11-26)
+# 🗺️ CrazyMaze (2011-11-26)
 
 > 똑같이 생긴 벽들 속에서 숨겨진 미로를 탈출하는 게임입니다.
 
@@ -65,7 +65,7 @@
 ![](Images/CrazyMaze.gif)
 <br><br><br><br>
 
-# YGH좀비킬러 (2011-11-26)
+# 🧟‍♂️ YGH좀비킬러 (2011-11-26)
 
 > 횡스크롤 환경으로 좀비들을 죽여 다음 단계로 가는 게임입니다.
 > 튜토리얼 정도만 플레이 가능합니다.
@@ -77,7 +77,7 @@
 ![](Images/YGH좀비킬러.gif)
 <br><br><br><br>
 
-# 새싹RPG (2011-11-26)
+# ⚔️ 새싹RPG (2011-11-26)
 
 > RPG 게임을 만들어 보려다가 인디게임 수준을 넘어선 많은 양에 포기한 작품입니다.
 >
@@ -90,7 +90,7 @@
 ![](Images/새싹RPG.gif)
 <br><br><br><br>
 
-# AndEverythingStartedToFall (2012-01-13)
+# 🧍‍♂️ AndEverythingStartedToFall (2012-01-13)
 
 > And Everything Started To Fall 를 카피코딩하여 제작한 게임입니다.
 
@@ -101,7 +101,7 @@
 ![](Images/AndEverythingStartedToFall.gif)
 <br><br><br><br>
 
-# 세상에서 가장 어려운 게임 (2012-01-13)
+# 🟥 세상에서 가장 어려운 게임 (2012-01-13)
 
 > The World Hardest Game 를 카피코딩하여 제작한 게임입니다.
 
@@ -112,7 +112,7 @@
 ![](Images/HardestGame.gif)
 <br><br><br><br>
 
-# YGH Ball (2012-02-22)
+# ⚫ YGH Ball (2012-02-22)
 
 > 게임메이커의 노하우를 모두 녹여 만든 공튀기기 게임 입니다.
 >
@@ -128,7 +128,7 @@
 ![](Images/YGHBall.gif)
 <br><br><br><br>
 
-# Oneline Platform (2012-03-16)
+# ⬜ Oneline Platform (2012-03-16)
 
 > 소켓 통신을 활용하여 처음으로 만든 온라인 게임입니다.
 >
@@ -141,7 +141,7 @@
 ![](Images/OnlinePlatform.gif)
 <br><br><br><br>
 
-# Oneline YGHBall (2012)
+# ⚫ Oneline YGHBall (2012)
 
 > YGH Ball 게임을 온라인으로 즐길 수 있습니다.
 >
@@ -164,7 +164,7 @@
 ![](Images/OnlineYGHBall.gif)
 <br><br><br><br>
 
-# Polygon Platform (2012-09-01)
+# ⬛ Polygon Platform (2012-09-01)
 
 > 그동안 쌓아온 플랫폼 게임의 기술을 녹여 `GameMaker Studio` 라는 툴로 안드로이드 앱 제작을 하였습니다.
 
@@ -176,7 +176,7 @@
 ![](Images/PolygonPlatformDemo.gif)
 <br><br><br><br>
 
-# Redstone Simulator (2013-04-02)
+# 🔌 Redstone Simulator (2013-04-02)
 
 > 마인크래프트 라는 게임에서 레드스톤을 평면으로 다룰 수 있는 프로그램입니다.
 >
@@ -207,7 +207,7 @@
 ![](Images/RedstoneSimulatorDemo.png)
 <br><br><br><br>
 
-# YGH Ball 2 (2013-02-13)
+# ⚫ YGH Ball 2 (2013-02-13)
 
 > 제 `GameMaker` 인생 마지막 작품인 종합 게임 입니다.
 >
